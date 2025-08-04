@@ -1,0 +1,15 @@
+/* regole debug griglia BS */
+[class^='container'] {
+    border: 1px dashed black;
+    background-color: lightblue;
+}
+
+[class^='row'] {
+    border: 1px dashed red;
+}
+
+[class^='col'] {
+    height: 100px;
+    background-color: #f1d2e7;
+    border: 1px solid #d0a8eb;
+}
